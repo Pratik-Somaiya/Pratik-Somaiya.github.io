@@ -16,6 +16,7 @@ url: "http://Pratik-Somaiya.github.io" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
+baseurl: /gatok
 permalink: /:title/
 
 disqus-shortname: Pratik-Somaiya
