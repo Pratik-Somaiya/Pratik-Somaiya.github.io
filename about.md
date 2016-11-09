@@ -5,9 +5,7 @@ permalink: /about/
 ---
 <div class="mt50"></div>
 
-Webjeda Gatok is a Bootstrap based theme. Any Bootstrap element can be used in the theme.
-
-The name Gatok is a short form of [Ghatotkacha](https://en.wikipedia.org/wiki/Ghatotkacha){: target="_blank"} who was a monster in the Hindu mythology Mahabharatha.
+Pratik Somaiya is an iOS Application developer with 5+ years of experience in iOS.
 
 ![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok.jpg)
 
