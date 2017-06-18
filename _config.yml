@@ -1,56 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Site settings
-title: Pratik Somaiya
-email: psomaiya17@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Pratik Somaiya Github Static Website. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://Pratik-Somaiya.github.io" # the base hostname & protocol for your site
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-# Build settings
-markdown: kramdown
-baseurl: 
-permalink: /:title/
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-disqus-shortname: Pratik-Somaiya
+paginate:         5
 
+# Custom vars
+version:          2.1.0
 
-#compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-
-sass: 
-  style: compressed
-
-analytics: UA-83979019-1
-
-version: 1.0
-
-gems: [jekyll-paginate, jekyll-seo-tag]
-
-  
-prose:
-  rooturl: ''
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'images'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-
+github:
+  repo:           https://github.com/poole/hyde
