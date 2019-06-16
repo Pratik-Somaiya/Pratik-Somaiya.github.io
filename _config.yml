@@ -1,16 +1,16 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Pratik 
+subtitle: by creation
 email: psomaiya17@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://pratik-somaiya.github.io/ # the base hostname & protocol for your site
+author: Pratik Somaiya
 city: Pune
 state: MH
 zip_code: 411036
 country: INDIA
-phone: (716) 9428349285
+phone: (+91) 9428349285
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -18,15 +18,11 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+facebook_url: https://www.facebook.com/pratiksomaiya17
+github_url: https://github.com/Pratik-Somaiya/Pratik-Somaiya.github.io
+instagram_url: https://instagram.com/pratiks17
+linkedin_url: https://www.linkedin.com/in/pratik-somaiya
+twitter_url: https://twitter.com/pratik_somaiya
 
 # build settings
 markdown: kramdown
