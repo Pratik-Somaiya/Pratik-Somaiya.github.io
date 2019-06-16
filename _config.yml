@@ -1,9 +1,9 @@
 # site settings
-title: Pratik 
-subtitle: by creation
+title: Pratik Somaiya
+subtitle: Resume
 email: psomaiya17@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: https://pratik-somaiya.github.io/ # the base hostname & protocol for your site
 author: Pratik Somaiya
 city: Pune
